@@ -1,7 +1,4 @@
-.red {
-    background-color: red;
-    font-family: Verdana, DejaVu Sans, sans-serif;
-}
+
 
 .two {
     color: blue;
@@ -16,4 +13,9 @@
     background-color: lightgreen;
     font-size: 24px;
     font-weight: 700;
+}
+
+.red {
+    background-color: red;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
