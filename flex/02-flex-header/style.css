@@ -20,7 +20,6 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  align-content: space-between;
 }
 
 a {
@@ -29,6 +28,8 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  
 }
 
+li {
+  margin: 2px;
+}
