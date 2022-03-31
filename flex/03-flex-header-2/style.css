@@ -57,5 +57,5 @@ ul {
 
 .right {
   display: flex;
-  align-content: space-around;
+  align-items: center;
 }
