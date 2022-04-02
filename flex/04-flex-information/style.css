@@ -28,6 +28,30 @@ img {
   justify-content: center;
 }
 
+#one {
+  margin: 52px;
+  width: 200px;
+  text-align: center;
+}
+
+#two {
+  margin: 52px;
+  width: 200px;
+  text-align: center;
+}
+
+#three {
+  margin: 52px;
+  width: 200px;
+  text-align: center;
+}
+
+#four {
+  margin: 52px;
+  width: 200px;
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
