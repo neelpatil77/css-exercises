@@ -18,36 +18,18 @@ body {
 .left-links {
   margin-right: auto;
   list-style-type: none;
+  flex-wrap: wrap;
 }
 
 .right-links {
   margin-left: auto;
   list-style-type: none;
+  flex-wrap: wrap;
 }
 
 a {
   text-decoration: none;
   color: black;
-}
-
-a:link {
-
-}
-
-a:visited {
-
-}
-
-a:focus {
-
-}
-
-a:hover {
-
-}
-
-a:active {
-
 }
 
 img {
