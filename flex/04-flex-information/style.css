@@ -9,16 +9,23 @@ img {
   flex-wrap: wrap;
 }
 
-.class {
-  display: flex;
-  
-}
-
 
 .text {
   display: flex;
   flex-wrap: wrap;
 }
+
+
+.class {
+  display: flex;
+  flex-wrap: wrap
+}
+
+.id {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 
 .title {
   font-size: 36px;
