@@ -12,16 +12,20 @@ body {
 .header {
   display: flex;
   background-color: #ddd;
-  list-style-type: none;
+
 }
 
 .left-links {
   margin-right: auto;
-  text-decoration: none;
+  list-style-type: none;
 }
 
 .right-links {
   margin-left: auto;
+  list-style-type: none;
+}
+
+ul{
   text-decoration: none;
 }
 
