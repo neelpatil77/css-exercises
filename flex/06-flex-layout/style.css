@@ -29,6 +29,28 @@ ul{
   text-decoration: none;
 }
 
+ul:link {
+  text-decoration: none;
+  color: black;
+
+}
+
+ul:visited {
+
+}
+
+ul:focus {
+
+}
+
+ul:hover {
+
+}
+
+ul:active {
+
+}
+
 img {
   width: 600px;
 }
