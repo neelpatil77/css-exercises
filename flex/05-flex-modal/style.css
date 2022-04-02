@@ -25,6 +25,11 @@ body {
   flex-wrap: wrap;
 }
 
+.right {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
