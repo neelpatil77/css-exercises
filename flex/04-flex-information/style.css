@@ -31,21 +31,25 @@ img {
 .one {
   display: flex;
   flex-wrap: wrap;
+  width: 60px;
 }
 
 .two {
   display: flex;
   flex-wrap: wrap;
+  width: 60px;
 }
 
 .three {
   display: flex;
   flex-wrap: wrap;
+  width: 60px;
 }
 
 .four {
   display: flex;
   flex-wrap: wrap;
+  width: 60px;
 }
 
 .title {
