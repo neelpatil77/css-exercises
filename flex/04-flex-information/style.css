@@ -25,6 +25,7 @@ img {
 .whole {
   display: flex;
   flex-wrap: wrap;
+  width: 100;
 }
 
 .one {
