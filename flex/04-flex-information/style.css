@@ -25,31 +25,27 @@ img {
 .whole {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .one {
   display: flex;
   flex-wrap: wrap;
-  width: 60px;
 }
 
 .two {
   display: flex;
   flex-wrap: wrap;
-  width: 60px;
 }
 
 .three {
   display: flex;
   flex-wrap: wrap;
-  width: 60px;
 }
 
 .four {
   display: flex;
   flex-wrap: wrap;
-  width: 60px;
 }
 
 .title {
