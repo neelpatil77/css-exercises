@@ -21,11 +21,25 @@ img {
   flex-wrap: wrap
 }
 
-.id {
+.one {
   display: flex;
   flex-wrap: wrap;
 }
 
+.two {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.three {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.four {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .title {
   font-size: 36px;
