@@ -21,6 +21,12 @@ img {
   flex-wrap: wrap
 }
 
+
+.whole {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .one {
   display: flex;
   flex-wrap: wrap;
