@@ -27,11 +27,11 @@ body {
 
 .left {
   display: flex;
-  flex-wrap: wrap;
+
 }
 .right {
   display: flex;
-  flex-wrap: wrap;
+
 }
 
 .icon {
