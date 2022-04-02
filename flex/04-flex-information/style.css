@@ -9,6 +9,11 @@ img {
   flex-wrap: wrap;
 }
 
+.class {
+  display: flex;
+  
+}
+
 
 .text {
   display: flex;
