@@ -34,8 +34,9 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
 }
 
 .close-button {
