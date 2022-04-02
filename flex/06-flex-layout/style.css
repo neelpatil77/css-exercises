@@ -25,29 +25,28 @@ body {
   list-style-type: none;
 }
 
-li{
-  text-decoration: none;
-}
-
-li:link {
+a {
   text-decoration: none;
   color: black;
+}
+
+a:link {
 
 }
 
-ul:visited {
+a:visited {
 
 }
 
-ul:focus {
+a:focus {
 
 }
 
-ul:hover {
+a:hover {
 
 }
 
-ul:active {
+a:active {
 
 }
 
