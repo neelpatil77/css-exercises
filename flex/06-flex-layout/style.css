@@ -9,6 +9,20 @@ body {
   flex-direction: column ;
 }
 
+.header {
+  display: flex;
+  background-color: #ddd;
+  list-style: none;
+}
+
+.left-links {
+  margin-right: auto;
+}
+
+.right-links {
+  margin-left: auto;
+}
+
 img {
   width: 600px;
 }
