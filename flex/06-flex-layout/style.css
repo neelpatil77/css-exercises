@@ -19,12 +19,14 @@ body {
   margin-right: auto;
   list-style-type: none;
   flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .right-links {
   margin-left: auto;
   list-style-type: none;
   flex-wrap: wrap;
+  flex-direction: row;
 }
 
 a {
